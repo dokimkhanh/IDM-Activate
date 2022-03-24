@@ -2,7 +2,7 @@
 # IDM-Activate
  A small program to help activate IDM license
 
-Last version: 1.0.0.0
+Last version: 1.0.0.1
 
 
 
