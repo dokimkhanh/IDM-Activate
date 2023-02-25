@@ -32,7 +32,7 @@ Last version: 1.0.0.1
  
 ## Buy me a coffee 
 
-- Paypal : khanhthanchet2@gmail.com
+- Paypal : dokimkhanh7902@gmail.com
 - Momo: 0989214302
 - Bank: 9017041103756 - VIET CAPITAL COMMERCIAL JOINT STOCK BANK - SWIFT: VCBCVNVX
 
